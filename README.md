@@ -15,3 +15,9 @@
 
   
           
+# Redes Sociais
+<div>
+  <a href = "mailto: enricomior5@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/enricosm" target="_blank"><img height="30" width="140" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
