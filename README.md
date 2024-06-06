@@ -39,7 +39,7 @@ Vamos nos conectar!
 <div> 
 <a href="https://www.instagram.com/enricosm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:enricomior5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/enrico-santos-mior](https://www.linkedin.com/in/enrico-santos-mior-1ba6a9261/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/enrico-santos-mior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>&nbsp;&nbsp;
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
