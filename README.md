@@ -1,60 +1,99 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header&text=Enrico+Mior&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Enrico+Santos+Mior;I'm+18+years+old;I+am+from+Guarulhos,+SP;I+study+Systems+Analysis+and+Development+at+ENIAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# 👋 Olá, eu sou o Enrico Mior!
 
+### 📊 Analista de Dados em formação | ADS
 
+🎓 Formado em Análise e Desenvolvimento de Sistemas pelo ENIAC.
 
+🚀 Construindo minha jornada na área de Análise de Dados,
+transformando aprendizado em projetos práticos.
 
-
-<p align="center">Olá! 👋
-Sou estudante de Análise e Desenvolvimento de Sistemas no ENIAC, buscando constantemente aprender e me aprimorar na área. Tenho conhecimentos em HTML, CSS e JavaScript, e estou sempre motivado a expandir minhas habilidades em desenvolvimento web. Cada dia é uma nova oportunidade para absorver mais conhecimento, seja através de projetos práticos, estudos acadêmicos ou colaboração com outros entusiastas da tecnologia. Estou ansioso para aplicar o que aprendo em ambientes que incentivem o crescimento e a inovação, contribuindo de maneira significativa para projetos desafiadores. 🚀
-
-Vamos nos conectar!
-</p>&nbsp;
-
-&nbsp;
-&nbsp;
-
-## My Skills
-
-#### Main Stack:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/enricosm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:enricomior5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/enrico-santos-mior-1ba6a9261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-</div>&nbsp;&nbsp;
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://beacons.ai/EnricoMior">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnricoMior&show_icons=true&count_private=true&hide_border=true&title_color=537ce5&icon_color=537ce5&text_color=d0d0d0&bg_color=0d1117" alt="Enrico Mior github stats" />
-  </a>
-  <a href="https://beacons.ai/EnricoMior">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoMior&layout=compact&hide_border=true&title_color=537ce5&text_color=d0d0d0&bg_color=0d1117" />
-  </a>
 </div>
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EnricoMior}/count.svg" /></p>
-<br></div>
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
+## 👨‍💻 Sobre mim
+
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou direcionando minha carreira para **Análise de Dados**.
+
+Tenho interesse em explorar dados, identificar padrões e transformar informações em insights que contribuam para a tomada de decisões.
+
+Este GitHub será meu espaço para compartilhar projetos, estudos e minha evolução profissional.
+
+- 📚 Atualmente estudando Análise de Dados
+- 📈 Desenvolvendo habilidades em Excel, SQL, Power BI e Python
+- 🌎 Estudando inglês para ampliar minhas oportunidades
+- 🎯 Objetivo: atuar profissionalmente como Analista de Dados
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+### 📊 Data Analytics
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+### 💻 Desenvolvimento
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+## 📂 Projetos
+
+| Projeto | Descrição | Ferramentas |
+|---|---|---|
+| Em breve | Análise exploratória de dados | Excel |
+| Em breve | Consultas e análise de dados | SQL |
+| Em breve | Dashboard interativo | Power BI |
+| Em breve | Análise de dados e visualizações | Python |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=EnricoMior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoMior&layout=compact&theme=dracula"/>
+
+</div>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/EnricoMior" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *Aprendendo, praticando e evoluindo todos os dias.*
+
+</div>
+
 
